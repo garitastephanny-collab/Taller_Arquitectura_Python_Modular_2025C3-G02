@@ -1,0 +1,5 @@
+frijoles:1200
+manzanas:1000
+cerezas:2000
+queso:5000
+pan:2275
